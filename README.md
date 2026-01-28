@@ -39,4 +39,5 @@ into a single interactive environment.
    ```bash
    pip install -r requirements.txt
 3. Run the shell:
+   ```bash
    python pyshell.py
